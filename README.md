@@ -13,5 +13,3 @@ Backend, mostly Go and Python. Lately I've been into security: I run a honeypot 
 Uni OOP labs: [WeatherBot](https://github.com/born2feel/WeatherBot), [Delivery](https://github.com/born2feel/Delivery), [WikiSearch](https://github.com/born2feel/WikiSearch), [AddressStats](https://github.com/born2feel/AddressStats).
 
 **Stack:** Go, Python, TypeScript, Java, PostgreSQL, SQLite, Docker, GitHub Actions.
-
-<a href="https://github.com/born2feel/honeynet"><img src="https://raw.githubusercontent.com/born2feel/honeynet/main/docs/screenshots/campaigns.png" width="80%" alt="honeynet"></a>
