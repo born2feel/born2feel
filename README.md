@@ -93,9 +93,7 @@ frameworks, no build step.
 </tr>
 </table>
 
-<sub>🎓 **Coursework (OOP):** [WeatherBot](https://github.com/born2feel/WeatherBot) (Python, Telegram) ·
-[Delivery](https://github.com/born2feel/Delivery) · [WikiSearch](https://github.com/born2feel/WikiSearch) ·
-[AddressStats](https://github.com/born2feel/AddressStats) (Java)</sub>
+<sub>OOP: [WeatherBot](https://github.com/born2feel/WeatherBot) · [Delivery](https://github.com/born2feel/Delivery) · [WikiSearch](https://github.com/born2feel/WikiSearch) · [AddressStats](https://github.com/born2feel/AddressStats)</sub>
 
 <div align="center">
 <a href="https://github.com/born2feel/honeynet">
@@ -110,7 +108,6 @@ frameworks, no build step.
 
 - 🛡️ Getting deeper into **security engineering**: honeypots, threat intel, detection
 - 🧱 Writing more **Go**, from network services to observability
-- 🎓 Studying; my OOP coursework (Java, Python) is public too
 
 <!-- Add a contact line, e.g.:
 ### 📫 Contact
