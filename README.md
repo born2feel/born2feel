@@ -81,7 +81,7 @@ GitHub Actions.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 #### 🎨 [landing-demos](https://github.com/born2feel/landing-demos) · [live](https://born2feel.github.io/landing-demos/)
 Four responsive one-page sites for small businesses in hand-written HTML and CSS: no
@@ -90,17 +90,12 @@ frameworks, no build step.
 `HTML` `CSS` `Responsive` `GitHub Pages`
 
 </td>
-<td width="50%" valign="top">
-
-#### 🌦️ [WeatherBot](https://github.com/born2feel/WeatherBot)
-Telegram weather bot: current weather, forecasts, what to wear, and a side-by-side comparison of
-two cities. Remembers your city.
-
-`Python` `Telegram` `REST API` `pytest`
-
-</td>
 </tr>
 </table>
+
+<sub>🎓 **Coursework (OOP):** [WeatherBot](https://github.com/born2feel/WeatherBot) (Python, Telegram) ·
+[Delivery](https://github.com/born2feel/Delivery) · [WikiSearch](https://github.com/born2feel/WikiSearch) ·
+[AddressStats](https://github.com/born2feel/AddressStats) (Java)</sub>
 
 <div align="center">
 <a href="https://github.com/born2feel/honeynet">
@@ -115,7 +110,7 @@ two cities. Remembers your city.
 
 - 🛡️ Getting deeper into **security engineering**: honeypots, threat intel, detection
 - 🧱 Writing more **Go**, from network services to observability
-- 🎓 Studying; the coursework (Java, OOP) lives in this profile too
+- 🎓 Studying; my OOP coursework (Java, Python) is public too
 
 <!-- Add a contact line, e.g.:
 ### 📫 Contact
