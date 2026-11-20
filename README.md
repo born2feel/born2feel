@@ -2,6 +2,10 @@
 
 Backend, mostly Go and Python. Lately I've been into security: I run a honeypot and look at what bots do once they think they're in.
 
+[![Honeynet dashboard, session list and terminal replay](assets/honeynet-replay.gif)](https://github.com/born2feel/honeynet#session-replay)
+
+*A synthetic SSH session in honeynet. Watch the bot check the host's kernel and CPU.*
+
 **Projects**
 
 - [honeynet](https://github.com/born2feel/honeynet): SSH, Telnet and HTTP honeypot in Go with a web dashboard. A fake shell keeps bots busy, sessions get grouped into campaigns, indicators export to STIX.
